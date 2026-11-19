@@ -1,11 +1,3 @@
-<!--
-  ═══════════════════════════════════════════════════════════════════
-  Perfil de GitHub — Vlobos01
-  · Banner: assets/banner.svg (logo embebido en base64)
-  · Guía:   INSTRUCCIONES.md
-  ═══════════════════════════════════════════════════════════════════
--->
-
 <div align="center">
   <a href="https://github.com/Vlobos01">
     <img src="https://raw.githubusercontent.com/Vlobos01/Vlobos01/main/assets/banner.svg" alt="Agustín Verga Lobos — Analista en Sistemas" width="100%" />
