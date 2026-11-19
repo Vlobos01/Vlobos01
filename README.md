@@ -7,7 +7,9 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vlobos01/Vlobos01/main/assets/banner.svg" alt="Agustín Verga Lobos — Analista en Sistemas" width="100%" />
+  <a href="https://github.com/Vlobos01">
+    <img src="https://raw.githubusercontent.com/Vlobos01/Vlobos01/main/assets/banner.svg" alt="Agustín Verga Lobos — Analista en Sistemas" width="100%" />
+  </a>
 </div>
 
 <p align="center">
