@@ -70,7 +70,7 @@ Si cambiás el azul base, tocá estas claves del README:
 
 El logo **ya no está en el banner**: GitHub muestra tu avatar arriba a la izquierda del perfil, así que repetirlo era redundante. Los colores del banner sí salen de él (`#006FFD`).
 
-En su lugar el banner tiene una terminal con `whoami` y `dotnet run`.
+En su lugar el banner tiene una terminal con `whoami` y `flutter run`.
 
 Si algún día querés volver a poner el logo adentro del SVG, hay que embeberlo en base64 (GitHub bloquea recursos externos dentro de un SVG). Pasame `logo.png` y lo vuelvo a embeber recortado y optimizado.
 

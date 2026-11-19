@@ -92,7 +92,7 @@
 
     <!-- tagline -->
     <text x="64" y="246" class="sans" font-size="18" font-weight="500"
-          fill="#B9C9DA">C# · .NET · ASP.NET · React · JavaScript</text>
+          fill="#B9C9DA">Dart · Flutter · JavaScript · TypeScript · React</text>
 
     <!-- ubicación -->
     <text x="64" y="272" class="sans" font-size="13.5" fill="#6F8299"
@@ -116,11 +116,11 @@
     </text>
     <text x="736" y="160" class="mono" font-size="14" fill="#7C8CA3">Vlobos01</text>
     <text x="736" y="188" class="mono" font-size="14">
-      <tspan fill="#00C2FF">$</tspan><tspan fill="#EAF2FF" dx="9">dotnet run</tspan>
+      <tspan fill="#00C2FF">$</tspan><tspan fill="#EAF2FF" dx="9">flutter run</tspan>
     </text>
-    <text x="736" y="216" class="mono" font-size="14" fill="#4DA3FF">&gt; compilado en 312 ms</text>
-    <text x="736" y="244" class="mono" font-size="14" fill="#4DA3FF">&gt; escuchando en :5000</text>
-    <rect x="920" y="231" width="8" height="15" rx="2" fill="#00C2FF">
+    <text x="736" y="216" class="mono" font-size="14" fill="#4DA3FF">&gt; compilando… ok</text>
+    <text x="736" y="244" class="mono" font-size="14" fill="#4DA3FF">&gt; app lista en :8080</text>
+    <rect x="918" y="231" width="8" height="15" rx="2" fill="#00C2FF">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
 

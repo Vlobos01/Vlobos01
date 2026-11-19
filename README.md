@@ -20,28 +20,32 @@
 
 ## 👋 Hola, soy **Agustín Verga Lobos**
 
-**Analista en Sistemas** de Buenos Aires, Argentina. Me gusta convertir ideas en software que funcione: hoy desarrollo con **C# / .NET** y estoy metiéndome de lleno en **React** y el ecosistema JavaScript.
+**Analista en Sistemas** de Buenos Aires, Argentina. Me gusta convertir ideas en software que funcione: hoy trabajo con **Dart, Flutter, JavaScript y TypeScript**, y sigo profundizando en **React**.
 
 - 🎓 Analista en Sistemas
-- 💻 Desarrollo con **C# · .NET · ASP.NET**
-- 🌱 Aprendiendo **React · JavaScript moderno · Node.js**
+- 💻 Desarrollo con **Dart · Flutter · JavaScript · TypeScript**
+- 🌱 Profundizando en **React**
 - 📍 **Buenos Aires, Argentina**
-- 💬 Preguntame sobre **.NET, C#, SQL y bases de datos**
+- 💬 Preguntame sobre **Flutter, Dart, JavaScript y TypeScript**
 
 ## 🛠️ Stack
 
 <table>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark&perline=10" alt="Frontend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=10" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dart,flutter&theme=dark&perline=10" alt="Mobile" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,mysql,postgres&theme=dark&perline=10" alt="Backend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,mysql,postgres&theme=dark&perline=10" alt="Backend" /></td>
   </tr>
   <tr>
     <td><b>Herramientas</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm&theme=dark&perline=10" alt="Herramientas" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,npm&theme=dark&perline=10" alt="Herramientas" /></td>
   </tr>
 </table>
 
