@@ -63,14 +63,17 @@
 ## 🚀 Proyectos destacados
 
 <p align="center">
+  <a href="https://github.com/Vlobos01/nexora">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=nexora&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3" alt="Nexora" />
+  </a>
   <a href="https://github.com/Vlobos01/Cobranza">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=Cobranza&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3" alt="Cobranza" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/Vlobos01/CuentasContables">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=CuentasContables&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3" alt="CuentasContables" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/Vlobos01/Parcial2Tp4">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=Parcial2Tp4&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3" alt="Parcial2Tp4" />
   </a>
