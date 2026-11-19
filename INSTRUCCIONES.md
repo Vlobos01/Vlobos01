@@ -40,9 +40,9 @@ GitHub **no** permite CSS ni JavaScript en los README. Filtra el HTML y deja pas
 | Email | agusvergalobos2016@gmail.com |
 | Proyectos | `Cobranza`, `CuentasContables`, `Parcial2Tp4` |
 
-⚠️ **Revisá dos cosas:**
+⚠️ **Revisá esto:**
 
-1. **LinkedIn**: quedó como `https://www.linkedin.com/in/agustin-verga-lobos` (lo deduje, no lo confirmé). Si tu URL es otra, cambiala en el badge de LinkedIn del README.
+1. **LinkedIn**: ya apunta a `https://www.linkedin.com/in/agustin-verga-lobos-951a26267/`. Si algún día lo cambiás, actualizá la `href` del badge.
 2. **Email público**: el link `mailto:` y el texto del README quedan visibles para cualquiera. Si no querés eso, borrá el badge de Email y el bloque de Contacto.
 
 ## 4. Paleta (sacada de tu logo)

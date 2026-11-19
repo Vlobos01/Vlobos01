@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/agustin-verga-lobos"><img src="https://img.shields.io/badge/LinkedIn-006FFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
+  <a href="https://www.linkedin.com/in/agustin-verga-lobos-951a26267/"><img src="https://img.shields.io/badge/LinkedIn-006FFD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
   <a href="https://github.com/Vlobos01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
   <a href="mailto:agusvergalobos2016@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
 </p>
