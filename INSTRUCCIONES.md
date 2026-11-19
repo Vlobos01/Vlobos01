@@ -22,8 +22,7 @@ GitHub **no** permite CSS ni JavaScript en los README. Filtra el HTML y deja pas
 ├── README.md                    ← tu perfil (esto es lo que se ve)
 ├── logo.png                     ← logo original (azul #006FFD)
 ├── assets/
-│   ├── banner.svg               ← banner con el logo embebido en base64
-│   ├── logo-360.png             ← logo optimizado que quedó embebido
+│   ├── banner.svg               ← banner con nombre + terminal .NET
 │   └── divider.svg              ← línea degradada decorativa
 ├── .github/workflows/snake.yml  ← genera la serpiente de contribuciones
 ├── preview.html                 ← solo local, para ver el banner en el navegador
@@ -67,32 +66,13 @@ Si cambiás el azul base, tocá estas claves del README:
 - streak: `ring=006FFD&fire=00C2FF`
 - visitas: `color=006FFD&labelColor=05070D`
 
-## 5. Cambiar el logo del banner
+## 5. Sobre el logo
 
-El logo no es un link: está **embebido en base64** dentro de `banner.svg` (porque GitHub bloquea recursos externos dentro de un SVG). Para reemplazarlo:
+El logo **ya no está en el banner**: GitHub muestra tu avatar arriba a la izquierda del perfil, así que repetirlo era redundante. Los colores del banner sí salen de él (`#006FFD`).
 
-**Opción A (fácil):** pasame el nuevo `logo.png` y lo vuelvo a embeber optimizado.
+En su lugar el banner tiene una terminal con `whoami` y `dotnet run`.
 
-**Opción B:** reemplazá el archivo `logo.png` y corré esto en PowerShell desde la carpeta del proyecto:
-
-```powershell
-Add-Type -AssemblyName System.Drawing
-$src = [System.Drawing.Bitmap]::FromFile(".\logo.png")
-$dst = New-Object System.Drawing.Bitmap 360,360
-$g = [System.Drawing.Graphics]::FromImage($dst)
-$g.Clear([System.Drawing.Color]::Black)
-$g.InterpolationMode = 'HighQualityBicubic'
-$g.DrawImage($src, 0, 0, 360, 360)
-$g.Dispose(); $src.Dispose()
-$dst.Save(".\assets\logo-360.png", [System.Drawing.Imaging.ImageFormat]::Png); $dst.Dispose()
-
-$b64 = [Convert]::ToBase64String([IO.File]::ReadAllBytes(".\assets\logo-360.png"))
-$svg = [IO.File]::ReadAllText(".\assets\banner.svg")
-$svg = [regex]::Replace($svg, 'base64,[A-Za-z0-9+/=]+', "base64,$b64")
-[IO.File]::WriteAllText(".\assets\banner.svg", $svg, (New-Object System.Text.UTF8Encoding($false)))
-```
-
-> Tip: el logo actual se recortó automáticamente al contenido (el PNG original tiene mucho margen negro) para que el lobo se vea grande dentro de la tarjeta.
+Si algún día querés volver a poner el logo adentro del SVG, hay que embeberlo en base64 (GitHub bloquea recursos externos dentro de un SVG). Pasame `logo.png` y lo vuelvo a embeber recortado y optimizado.
 
 ## 6. Subirlo a GitHub
 
@@ -123,7 +103,6 @@ Si ya tenías un remoto configurado, usá `git remote set-url origin https://git
 |---|---|
 | El banner no aparece | Revisá rama (`main` vs `master`), repo público y ruta exacta. Usá URLs absolutas `raw.githubusercontent.com`, nunca rutas relativas. |
 | Cambié el SVG y sigo viendo el viejo | Caché de imágenes de GitHub (camo). Agregá `?v=2` al final de la URL del banner o esperá unos minutos. |
-| El logo no se ve | Se rompió el base64: volvé a embeberlo (sección 5). |
 | Stats en 404 o en blanco | `github-readme-stats` es gratuito y a veces se cae o tarda. Recargá más tarde. |
 | La serpiente da 404 | El workflow no corrió o no tiene permisos de escritura (sección 7). |
 | Se ve cortado en el celular | Las tablas anchas scrollean; el banner y el divider usan `width="100%"`. |
