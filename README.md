@@ -60,27 +60,36 @@
   <img src="https://streak-stats.demolab.com?user=Vlobos01&theme=dark&hide_border=true&background=05070D&ring=006FFD&fire=00C2FF&currStreakLabel=4DA3FF&sideLabels=C9D6E3&dates=64748B" alt="Racha de contribuciones" />
 </p>
 
-## 🚀 Proyectos destacados
+## 🚀 Proyecto destacado
 
 <p align="center">
   <a href="https://github.com/Vlobos01/nexora">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=nexora&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3" alt="Nexora" />
   </a>
-  <a href="https://github.com/Vlobos01/Cobranza">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=Cobranza&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3" alt="Cobranza" />
-  </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/Vlobos01/CuentasContables">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=CuentasContables&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3" alt="CuentasContables" />
+  Generador de presupuestos <b>100% offline</b> con React + IndexedDB: PDF profesionales, estados y cobros parciales.<br/>
+  <a href="https://nexora-pied-mu.vercel.app"><b>Ver demo en vivo →</b></a>
+</p>
+
+## 🌐 Sitios web
+
+<p align="center">
+  Sitios reales en producción, fuera de GitHub.
+</p>
+
+<p align="center">
+  <a href="https://campingmartinreta.com">
+    <img width="400" src="https://raw.githubusercontent.com/Vlobos01/Vlobos01/main/assets/site-camping.svg" alt="Camping Martín Reta" />
   </a>
-  <a href="https://github.com/Vlobos01/Parcial2Tp4">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=Parcial2Tp4&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3" alt="Parcial2Tp4" />
+  <a href="https://grecosbikestore.com">
+    <img width="400" src="https://raw.githubusercontent.com/Vlobos01/Vlobos01/main/assets/site-grecos.svg" alt="Greco's Bike Store" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vlobos01?tab=repositories">Ver todos los repositorios →</a>
+  <a href="https://github.com/Vlobos01?tab=repositories">Ver repositorios →</a>
 </p>
 
 ## 🐍 Contribuciones
