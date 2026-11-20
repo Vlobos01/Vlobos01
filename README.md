@@ -52,7 +52,7 @@
   <img src="https://streak-stats.demolab.com?user=Vlobos01&theme=dark&hide_border=true&background=05070D&ring=006FFD&fire=00C2FF&currStreakLabel=4DA3FF&sideLabels=C9D6E3&dates=64748B" alt="Racha de contribuciones" />
 </p>
 
-## 🚀 Proyecto destacado
+## 🚀 Proyectos destacados
 
 <p align="center">
   <a href="https://github.com/Vlobos01/nexora">
@@ -63,6 +63,17 @@
 <p align="center">
   Generador de presupuestos <b>100% offline</b> con React + IndexedDB: PDF profesionales, estados y cobros parciales.<br/>
   <a href="https://nexora-pied-mu.vercel.app"><b>Ver demo en vivo →</b></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vlobos01/gestor-de-gastos">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=gestor-de-gastos&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3&cache_seconds=14400" alt="Gestor de gastos" />
+  </a>
+</p>
+
+<p align="center">
+  Gestor de gastos personales <b>local-first</b> con React + TypeScript: presupuestos por categoría, gráficos, respaldos y PWA instalable que funciona offline.<br/>
+  <a href="https://Vlobos01.github.io/gestor-de-gastos/"><b>Ver demo en vivo →</b></a> · <a href="https://github.com/Vlobos01/gestor-de-gastos">Código y documentación</a>
 </p>
 
 ## 🌐 Sitios web
