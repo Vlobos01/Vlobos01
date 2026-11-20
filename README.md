@@ -55,14 +55,13 @@
 ## 🚀 Proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/Vlobos01/nexora">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=nexora&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3&cache_seconds=14400" alt="Nexora" />
+  <a href="https://nexora-pied-mu.vercel.app">
+    <img width="400" src="https://raw.githubusercontent.com/Vlobos01/Vlobos01/main/assets/project-nexora.svg" alt="Nexora: generador de presupuestos offline con PDF, estados y cobros parciales" />
   </a>
 </p>
 
 <p align="center">
-  Generador de presupuestos <b>100% offline</b> con React + IndexedDB: PDF profesionales, estados y cobros parciales.<br/>
-  <a href="https://nexora-pied-mu.vercel.app"><b>Ver demo en vivo →</b></a>
+  <a href="https://nexora-pied-mu.vercel.app"><b>Ver demo en vivo →</b></a> · <a href="https://github.com/Vlobos01/nexora">Código y documentación</a>
 </p>
 
 <p align="center">
