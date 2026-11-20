@@ -66,13 +66,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vlobos01/gestor-de-gastos">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vlobos01&repo=gestor-de-gastos&hide_border=true&bg_color=05070D&title_color=4DA3FF&icon_color=006FFD&text_color=C9D6E3&cache_seconds=14400" alt="Gestor de gastos" />
+  <a href="https://gestor-de-gastos-sandy.vercel.app/">
+    <img width="400" src="https://raw.githubusercontent.com/Vlobos01/Vlobos01/main/assets/project-gestor.svg" alt="Gestor de gastos personales: presupuestos por categoría, gráficos y PWA offline" />
   </a>
 </p>
 
 <p align="center">
-  Gestor de gastos personales <b>local-first</b> con React + TypeScript: presupuestos por categoría, gráficos, respaldos y PWA instalable que funciona offline.<br/>
   <a href="https://gestor-de-gastos-sandy.vercel.app/"><b>Ver demo en vivo →</b></a> · <a href="https://github.com/Vlobos01/gestor-de-gastos">Código y documentación</a>
 </p>
 
