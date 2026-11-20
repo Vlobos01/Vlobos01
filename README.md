@@ -73,7 +73,7 @@
 
 <p align="center">
   Gestor de gastos personales <b>local-first</b> con React + TypeScript: presupuestos por categoría, gráficos, respaldos y PWA instalable que funciona offline.<br/>
-  <a href="https://Vlobos01.github.io/gestor-de-gastos/"><b>Ver demo en vivo →</b></a> · <a href="https://github.com/Vlobos01/gestor-de-gastos">Código y documentación</a>
+  <a href="https://gestor-de-gastos-sandy.vercel.app/"><b>Ver demo en vivo →</b></a> · <a href="https://github.com/Vlobos01/gestor-de-gastos">Código y documentación</a>
 </p>
 
 ## 🌐 Sitios web
