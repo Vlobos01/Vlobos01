@@ -74,6 +74,16 @@
   <a href="https://gestor-de-gastos-sandy.vercel.app/"><b>Ver demo en vivo →</b></a> · <a href="https://github.com/Vlobos01/gestor-de-gastos">Código y documentación</a>
 </p>
 
+<p align="center">
+  <a href="https://gestor-de-tareas-rust-nu.vercel.app">
+    <img width="400" src="https://raw.githubusercontent.com/Vlobos01/Vlobos01/main/assets/project-tareas.svg" alt="Flujo: gestor de tareas Kanban open-source con tableros, columnas, prioridades y colaboradores" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gestor-de-tareas-rust-nu.vercel.app"><b>Ver demo en vivo →</b></a> · <a href="https://github.com/Vlobos01/gestor-de-tareas">Código y documentación</a>
+</p>
+
 ## 🌐 Sitios web
 
 <p align="center">

@@ -23,7 +23,12 @@ GitHub **no** permite CSS ni JavaScript en los README. Filtra el HTML y deja pas
 ├── logo.png                     ← logo original (azul #006FFD)
 ├── assets/
 │   ├── banner.svg               ← banner con nombre + terminal .NET
-│   └── divider.svg              ← línea degradada decorativa
+│   ├── divider.svg              ← línea degradada decorativa
+│   ├── project-nexora.svg       ← tarjeta de Nexora
+│   ├── project-gestor.svg       ← tarjeta del gestor de gastos
+│   ├── project-tareas.svg       ← tarjeta del gestor de tareas (Flujo)
+│   ├── site-camping.svg         ← tarjeta de Camping Martín Reta
+│   └── site-grecos.svg          ← tarjeta de Greco's Bike Store
 ├── .github/workflows/snake.yml  ← genera la serpiente de contribuciones
 ├── preview.html                 ← solo local, para ver el banner en el navegador
 └── INSTRUCCIONES.md
@@ -38,7 +43,7 @@ GitHub **no** permite CSS ni JavaScript en los README. Filtra el HTML y deja pas
 | Rol | Analista en Sistemas |
 | Ubicación | Buenos Aires, Argentina |
 | Email | agusvergalobos2016@gmail.com |
-| Proyectos | `Cobranza`, `CuentasContables`, `Parcial2Tp4` |
+| Proyectos destacados | `nexora`, `gestor-de-gastos`, `gestor-de-tareas` |
 
 ⚠️ **Revisá esto:**
 
